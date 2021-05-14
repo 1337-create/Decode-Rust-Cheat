@@ -1,0 +1,10 @@
+﻿  Building 'CheatDriver' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  berkeley.c
+  ksocket.c
+  Generating Code...
+  Compiling...
+  main.cpp
+  packet_handler.cpp
+  server.cpp
+  Generating Code...
+  kernel_expo.vcxproj -> C:\Users\david\Desktop\OneUp Rust\x64\Release\CheatDriver.sys
